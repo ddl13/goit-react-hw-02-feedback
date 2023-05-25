@@ -1,5 +1,5 @@
 import styles from './FeedbackOptions.module.css';
-import Notification from 'components/notofication/Notification';
+
 import PropTypes from 'prop-types';
 
 const FeedbackOptions = ({ onLeaveFeedback, options }) => {
