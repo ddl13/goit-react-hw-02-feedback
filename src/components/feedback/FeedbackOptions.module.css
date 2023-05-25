@@ -1,0 +1,19 @@
+.button {
+  border-style: solid;
+  border-width: 1px;
+  padding: 1px 7px 2px;
+  border-radius: 23%;
+  margin-right: 10px;
+}
+
+.button:nth-child(2) {
+  background-color: #008000;
+}
+
+.button:nth-child(3) {
+  background-color: #eded27;
+}
+
+.button:nth-child(4) {
+  background-color: #d4332d;
+}
